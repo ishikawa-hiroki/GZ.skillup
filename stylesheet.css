@@ -132,3 +132,65 @@ footer{
 .clear{
   clear: left;
 }
+
+
+@media (max-width:1000px) {
+.header-list a{
+  font-size: 11px;
+}
+.top-wrapper{
+padding: 180px 0 100px 0;
+}
+.top-wrapper h1{
+  font-size: 30px;
+}
+.top-wrapper p{
+  font-size: 17px;
+}
+.heading{
+  font-size: 20px;
+}
+.btn{
+  font-size:80px;
+}
+.text-contents{
+  font-size: 11px;
+}
+
+.footer-address {
+  margin-right: 30px;
+}
+
+}
+
+
+@media (max-width:670px) 
+  .header-list{
+    display: none;
+  }
+  .top-wrapper h1{
+    font-size:20px;
+  }
+  .top-wrapper p{
+    font-size: 15px;
+    margin-top: 10px;
+  }
+  .lesson{
+    width:100%;
+  }
+  .text-contents{
+    margin-bottom: 50px;
+  }
+  .footer-logo{
+    float: none;
+  }
+  .top-wrapper-logo img{
+    width:100%;
+  }
+  footer{
+    text-align: center;
+  }
+
+
+}
+
