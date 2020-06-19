@@ -1,4 +1,4 @@
-@media all and(max-width:1000px) {
+@media screen and(max-width:1000px) {
 .header-list a{
   font-size: 11px;
 }
@@ -30,7 +30,7 @@ padding: 180px 0 100px 0;
 }
 
 
-@media all and(max-width:480px) 
+@media screen and(max-width:480px) 
   .header-list{
     display: none;
   }
