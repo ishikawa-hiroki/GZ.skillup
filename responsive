@@ -30,7 +30,7 @@ padding: 180px 0 100px 0;
 }
 
 
-@media screen and　(max-width:480px) 
+@media screen and　(max-width:670px) 
   .header-list{
     display: none;
   }
@@ -41,8 +41,11 @@ padding: 180px 0 100px 0;
     font-size: 15px;
     margin-top: 10px;
   }
+  .contents {
+    flex-direction:column;
+  }
   .lesson{
-    
+    margin:0 auto;
   }
   .text-contents{
     margin-bottom: 50px;
