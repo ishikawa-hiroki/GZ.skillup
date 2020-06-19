@@ -70,8 +70,10 @@ header{
   background-color: #f7f7f7;
   padding: 80px 0;
 }
+.contents {
+  display: flex;
+}
 .lesson{
-  float: left;
   width:33.3%;
 }
 .heading{
