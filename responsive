@@ -16,11 +16,13 @@ padding: 180px 0 100px 0;
 }
 .btn{
   font-size:80px;
-}
+} 
 .text-contents{
   font-size: 11px;
 }
-
+.top-wrapper-logo img{
+    width:100%;
+｝
 .footer-address {
   margin-right: 30px;
 }
