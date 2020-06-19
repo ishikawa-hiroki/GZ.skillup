@@ -42,7 +42,7 @@ padding: 180px 0 100px 0;
     margin-top: 10px;
   }
   .lesson{
-    width:100%;
+    
   }
   .text-contents{
     margin-bottom: 50px;
