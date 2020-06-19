@@ -1,4 +1,4 @@
-@media (max-width:1000;px) {
+@media (max-width:1000px) {
 .header-list a{
   font-size: 11px;
 }
