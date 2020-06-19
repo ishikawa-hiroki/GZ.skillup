@@ -164,33 +164,4 @@ padding: 180px 0 100px 0;
 }
 
 
-@media (max-width:670px) 
-  .header-list{
-    display: none;
-  }
-  .top-wrapper h1{
-    font-size:20px;
-  }
-  .top-wrapper p{
-    font-size: 15px;
-    margin-top: 10px;
-  }
-  .lesson{
-    width:100%;
-  }
-  .text-contents{
-    margin-bottom: 50px;
-  }
-  .footer-logo{
-    float: none;
-  }
-  .top-wrapper-logo img{
-    width:100%;
-  }
-  footer{
-    text-align: center;
-  }
-
-
-}
 
