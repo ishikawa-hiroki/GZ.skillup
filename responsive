@@ -1,4 +1,4 @@
-@media (max-width:1000px) {
+@media (max-width:1668px) {
 .header-list a{
   font-size: 11px;
 }
@@ -28,7 +28,7 @@ padding: 180px 0 100px 0;
 }
 
 
-@media (max-width:670px) 
+@media (max-width:1242px) 
   .header-list{
     display: none;
   }
